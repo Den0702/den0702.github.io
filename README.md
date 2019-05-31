@@ -1,7 +1,7 @@
 # den0702.github.io
-Witryna internetowa projektu
+##Witryna internetowa projektu
 
-Nasza aplikacja ma na celu znormalizować oraz zorganizować czas pracy. Dodatkowo pozwala na prowadzenie statystyk dotyczących projektów i czasu ich wykonania  zarówno grup projektowych jak i obowiązków prywatnych.
+###Nasza aplikacja ma na celu znormalizować oraz zorganizować czas pracy. Dodatkowo pozwala na prowadzenie statystyk dotyczących projektów i czasu ich wykonania  zarówno grup projektowych jak i obowiązków prywatnych.
 
 
 Użytkownik po założeniu konta i zalogowaniu  się do niego będzie miał możliwość:
