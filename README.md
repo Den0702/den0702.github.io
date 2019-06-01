@@ -5,17 +5,22 @@
 
 ### Użytkownik po założeniu konta i zalogowaniu  się do niego będzie miał możliwość:
 
-* wysyłania wiadomości i odbierania ich
+* *wysyłania* wiadomości i *odbierania* ich
 
-* dodawania głównych folderów - w nich będzie mógł zapisywać swoje poszczególne zadania - określać datę i ustawiać przypomnienia do wykonania
+* *dodawania* głównych folderów - w nich będzie mógł zapisywać swoje poszczególne zadania - określać datę i ustawiać przypomnienia do wykonania
 
-* użytkownik będzie mógł mierzyć czas wykonania poszczególnych zadań
+* *mierzenia* czasu wykonania poszczególnych zadań
 
-* będzie miał możliwość podpięcia osób do poszczególnych zadań przy wyznaczaniu ich obowiązków
+* *podpięcia* osób do poszczególnych zadań przy wyznaczaniu ich obowiązków
 
-* będzie również mógł dodawać pliki do poszczególnych zadań  oraz ustawiać priorytet zadań
+* *dodawania* plików do poszczególnych zadań  oraz ustawiać priorytet zadań
 
-* w aplikacji będzie także opcja podglądu kalendarza w którym będą wyświetlały się zadania w konkretnych dniach
+* *podglądu* kalendarza w którym będą wyświetlały się zadania w konkretnych dniach
 
-### Technologie użyte przy tworzeniu projektu [](https://www.google.by/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiouITh08biAhVk-ioKHTWrA3cQjRx6BAgBEAU&url=https%3A%2F%2Fwww.logolynx.com%2Ftopic%2Freact&psig=AOvVaw1PIrrkV9nOnnze28pUoDk7&ust=1559422525918934) [Apache Cordova](https://www.google.by/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwic7eeJ1cbiAhUtxosKHRcMCcIQjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Fapachecordova&psig=AOvVaw0liyitr1ODc3rgmVEBM7Lw&ust=1559422869586120)
+### Technologie użyte przy tworzeniu aplikacji 
+# React ![React](https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/026/square_256/react.png) 
+# Apache Cordova ![Apache Cordova](https://pbs.twimg.com/profile_images/1769287743/cordova_256.png)
 
+### Narzędzia użyte do zarządzania projektem: [Trello](https://trello.com/b/AFdwetRw/taskplaner-lista-zadań), [Github](https://github.com/s194506/BAITaskPlanner/projects/1)
+### Prototyp aplikacji: <https://marvelapp.com/bg953ib/screen/56921859>
+### Repozytorium projektu: <https://github.com/s194506/BAITaskPlanner>
